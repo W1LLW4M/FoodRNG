@@ -1,6 +1,6 @@
-# 🍔 Food Squishy RNG — Development & Changelog
+# 🍔 FoodRNG — Development & Changelog
 
-**Food Squishy RNG** is a browser-based luck and collection game where players roll for different food squishies, discover new rarities, build their collection, and try to find the rarest foods. The project started as a very simple game and gradually grew into a much larger RNG game with hundreds of mechanics packed into a single HTML file.
+**FoodRNG** is a browser-based luck and collection game where players roll for different food squishies, discover new rarities, build their collection, and try to find the rarest foods. The project started as a very simple game and gradually grew into a much larger RNG game with hundreds of mechanics packed into a single HTML file.
 
 ### 🎮 How to Play
 
@@ -33,7 +33,7 @@ As the game developed, more progression systems were added. Players can earn coi
 ### 📜 Changelog
 
 **V1 — The Beginning**
-V1 was the original simple version of Food Squishy RNG. It contained only **15 food squishies** and focused mainly on rolling, seeing the result, and collecting foods. It was intentionally simple and acted as the foundation for the later versions.
+V1 was the original simple version of **FoodRNG**. It contained only **15 food squishies** and focused mainly on rolling, seeing the result, and collecting foods. It was intentionally simple and acted as the foundation for the later versions.
 
 **V2 — The Big Expansion**
 V2 increased the collection from 15 foods to **50 unique food squishies**. It added more rarities, Shiny and Golden variants, Luck upgrades, coins, quests, achievements, daily rewards, streaks, statistics, collection filters, and better animations. V2 also introduced a much more complete saving system using localStorage.
@@ -43,11 +43,11 @@ V3 expanded the collection to **167 unique food squishies** and introduced the n
 
 ### 🛠️ Development Team
 
-The game was developed as a collaborative project. **W1LLW4M** worked on editing and improving the game, including helping shape the versions and features as the project expanded. **Kuro** and **Dino** tested the game and helped find bugs, glitches, and things that needed improvement. Testing was especially important as the game became larger because adding more foods and mechanics created more opportunities for unexpected problems. Kuro is the Admin in the Discord server.
+The game was developed as a collaborative project. **W1LLW4M** worked on editing and improving the game, including helping shape the versions and features as the project expanded. **Kuro** and **Dino** tested the game and helped find bugs, glitches, and things that needed improvement. **Kuro** is also the Admin in the Discord server.
 
 The development process was basically: **build → test → find bugs → fix → add features → test again → improve the design**. 🧪
 
 One example was a bug where the food emoji could sometimes remain stuck on a previous result after rolling a different food. The game's display system was changed so that the most recent roll is stored separately and shown correctly, preventing the equipped food from accidentally overwriting the latest roll.
 
-Overall, Food Squishy RNG went from a tiny **15-food experiment in V1** into a much larger RNG collection game by V3, while still keeping the original idea simple: **roll, discover, collect, upgrade, and chase the rarest food squishies.**
+Overall, **FoodRNG** went from a tiny **15-food experiment in V1** into a much larger RNG collection game by V3, while still keeping the original idea simple: **roll, discover, collect, upgrade, and chase the rarest food squishies.**
 
