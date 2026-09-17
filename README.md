@@ -43,7 +43,7 @@ V3 expanded the collection to **167 unique food squishies** and introduced the n
 
 ### 🛠️ Development Team
 
-The game was developed as a collaborative project. **W1LLW4M** worked on editing and improving the game, including helping shape the versions and features as the project expanded. **Kuro** and **Dino** tested the game and helped find bugs, glitches, and things that needed improvement. **Kuro** is also the Admin in the Discord server.
+The game was developed as a collaborative project. **W1LLW4M** worked on editing and improving the game, including helping shape the versions and features as the project expanded. **Dino** helps code more minor updates such as bug fixes and accessibility features. **Kuro** tested the game and helped find bugs, glitches, and things that needed improvement. **Kuro** is also the Admin in the Discord server.
 
 The development process was basically: **build → test → find bugs → fix → add features → test again → improve the design**. 🧪
 
