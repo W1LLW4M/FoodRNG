@@ -41,6 +41,9 @@ V2 increased the collection from 15 foods to **50 unique food squishies**. It ad
 **V3 — The Massive Upgrade**
 V3 expanded the collection to **167 unique food squishies** and introduced the new **Secret** rarity, which is even rarer than Divine. Legendary, Mythic, Divine, and Secret pulls received increasingly impressive animations and visual effects. V3 also expanded the collection system, progression, Auto-Roll, quests, achievements, variants, statistics, and overall UI.
 
+**V3.1 Lightweight — The Enlightening**
+V3.1 Lightweight added a light mode feature, allowing users to choose between a light and dark background.
+
 ### 🛠️ Development Team
 
 The game was developed as a collaborative project. **W1LLW4M** worked on editing and improving the game, including helping shape the versions and features as the project expanded. **Dino** helps code more minor updates such as bug fixes and accessibility features. **Kuro** tested the game and helped find bugs, glitches, and things that needed improvement. **Kuro** is also the Admin in the Discord server.
